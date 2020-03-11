@@ -7,4 +7,4 @@ Setup:
 
 Using PyCharm, 
 1. Ctrl + Shift + A - type VCS into the searchbox, open VCS window
-![Step-1](images/Screenshot from 2020-03-10 22-49-20.png)
+![Step-1](images/Screenshot%20from%202020-03-10%2022-49-20.png)
