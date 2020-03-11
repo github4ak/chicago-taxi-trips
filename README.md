@@ -24,7 +24,7 @@ Using PyCharm,
 
 This should setup the project in PyCharm.
 
-Using Git to add and files and make changes
+Using Git to add and files and make changes [I use the terminal instead of the PyCharm plugin]
 
 $ git pull
 
