@@ -30,9 +30,12 @@ $ git pull
 
 $ git checkout -b [name_of_your_new_branch]
 
-# Make your file changes
+ -- Make your file changes
+ 
 $ git diff
+
 $ git add [required_files]
+
 $ git push orign [name_of_your_new_branch]
 
 These should create your git changes in the repository, and create a Merge request by following https://developers.sap.com/tutorials/webide-github-merge-pull-request.html
