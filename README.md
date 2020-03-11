@@ -3,7 +3,7 @@ CS 6140: Data Mining Project - Chicago Taxi Trips by Shaurya Sahai, Abishek Kris
 
 Dataset: https://www.kaggle.com/chicago/chicago-taxi-trips-bq
 
-Setup:
+**Setup with PyCharm**
 
 Using PyCharm, 
 1. Ctrl + Shift + A - type **VCS** into the searchbox, open VCS window
@@ -23,6 +23,8 @@ Using PyCharm,
 ![Step-4](images/step_4.png)
 
 This should setup the project in PyCharm.
+
+**Using Git**
 
 Using Git to add and files and make changes [I use the terminal instead of the PyCharm plugin]
 
@@ -45,3 +47,9 @@ You can track your local to the master branch,
 $ git branch --set-upstream-to=origin/master [name_of_your_local_branch]
 
 $ git pull
+
+**Using google.cloud**
+
+From  the terminal,
+
+pip install google-cloud-bigquery
