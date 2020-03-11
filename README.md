@@ -55,4 +55,5 @@ From  the terminal,
 pip install google-cloud-bigquery
 
 **To-do: Need to delete the credentials folder when this is made public**
+
 On authentication error, navigate to https://cloud.google.com/docs/authentication/getting-started and follow the instructions.
