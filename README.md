@@ -27,7 +27,9 @@ This should setup the project in PyCharm.
 Using Git to add and files and make changes
 
 $ git pull
+
 $ git checkout -b [name_of_your_new_branch]
+
 # Make your file changes
 $ git diff
 $ git add [required_files]
