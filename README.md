@@ -53,3 +53,5 @@ $ git pull
 From  the terminal,
 
 pip install google-cloud-bigquery
+
+On authentication error, navigate to https://cloud.google.com/docs/authentication/getting-started and follow the instructions.
