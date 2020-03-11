@@ -13,3 +13,7 @@ Using PyCharm,
 2. Select **Get From Version Control...** from the options
 
 ![Step-2](images/Screenshot%20from%202020-03-10%2022-54-50.png)
+
+3. Give the URL: **https://github.com/github4ak/chicago-taxi-trips** 
+
+![Step-3](images/Screenshot%20from%202020-03-10%2023-04-13.png)
