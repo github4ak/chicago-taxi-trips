@@ -8,7 +8,7 @@ Dataset: https://www.kaggle.com/chicago/chicago-taxi-trips-bq
 Using PyCharm, 
 1. Ctrl + Shift + A - type **VCS** into the searchbox, open VCS window
 
-![Step-1](images/step_1.png){:class="img-responsive"}{:height="50%" width="50%"}{:height="700px" width="400px"}
+![Step-1](images/step_1.png){:class="img-responsive" :height="700px" width="400px"}
 
 
 2. Select **Get From Version Control...** from the options
