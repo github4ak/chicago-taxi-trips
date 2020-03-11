@@ -21,3 +21,6 @@ Using PyCharm,
 4. Checkout from Version Control -  **Yes**
 
 ![Step-4](images/step_4.png)
+
+This should setup the project in PyCharm.
+
