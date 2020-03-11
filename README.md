@@ -39,3 +39,9 @@ $ git add [required_files]
 $ git push orign [name_of_your_new_branch]
 
 These should create your git changes in the repository, and create a Merge request by following https://developers.sap.com/tutorials/webide-github-merge-pull-request.html
+
+You can track your local to the master branch, 
+
+$ git branch --set-upstream-to=origin/master [name_of_your_local_branch]
+
+$ git pull
